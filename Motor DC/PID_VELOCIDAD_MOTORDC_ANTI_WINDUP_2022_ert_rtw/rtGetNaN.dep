@@ -1,0 +1,14 @@
+rtGetNaN.o: \
+ C:/Users/Mario/Desktop/CONTRO~1/MOTORD~1/PID_VELOCIDAD_MOTORDC_ANTI_WINDUP_2022_ert_rtw/rtGetNaN.c \
+ C:/Users/Mario/Desktop/CONTRO~1/MOTORD~1/PID_VELOCIDAD_MOTORDC_ANTI_WINDUP_2022_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2022b/extern/include/tmwtypes.h \
+ C:/Users/Mario/Desktop/CONTRO~1/MOTORD~1/PID_VELOCIDAD_MOTORDC_ANTI_WINDUP_2022_ert_rtw/rtGetNaN.h \
+ C:/Users/Mario/Desktop/CONTRO~1/MOTORD~1/PID_VELOCIDAD_MOTORDC_ANTI_WINDUP_2022_ert_rtw/rt_nonfinite.h
+
+C:/Users/Mario/Desktop/CONTRO~1/MOTORD~1/PID_VELOCIDAD_MOTORDC_ANTI_WINDUP_2022_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2022b/extern/include/tmwtypes.h:
+
+C:/Users/Mario/Desktop/CONTRO~1/MOTORD~1/PID_VELOCIDAD_MOTORDC_ANTI_WINDUP_2022_ert_rtw/rtGetNaN.h:
+
+C:/Users/Mario/Desktop/CONTRO~1/MOTORD~1/PID_VELOCIDAD_MOTORDC_ANTI_WINDUP_2022_ert_rtw/rt_nonfinite.h:
