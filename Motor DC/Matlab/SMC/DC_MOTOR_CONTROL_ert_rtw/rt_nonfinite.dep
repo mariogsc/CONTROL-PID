@@ -1,0 +1,17 @@
+rt_nonfinite.o: \
+ C:/Users/mario/Desktop/Mario/REPOSI~1/CONTRO~1/MOTORD~1/Matlab/SMC/DC_MOTOR_CONTROL_ert_rtw/rt_nonfinite.c \
+ C:/Users/mario/Desktop/Mario/REPOSI~1/CONTRO~1/MOTORD~1/Matlab/SMC/DC_MOTOR_CONTROL_ert_rtw/rtGetNaN.h \
+ C:/Users/mario/Desktop/Mario/REPOSI~1/CONTRO~1/MOTORD~1/Matlab/SMC/DC_MOTOR_CONTROL_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2022b/extern/include/tmwtypes.h \
+ C:/Users/mario/Desktop/Mario/REPOSI~1/CONTRO~1/MOTORD~1/Matlab/SMC/DC_MOTOR_CONTROL_ert_rtw/rtGetInf.h \
+ C:/Users/mario/Desktop/Mario/REPOSI~1/CONTRO~1/MOTORD~1/Matlab/SMC/DC_MOTOR_CONTROL_ert_rtw/rt_nonfinite.h
+
+C:/Users/mario/Desktop/Mario/REPOSI~1/CONTRO~1/MOTORD~1/Matlab/SMC/DC_MOTOR_CONTROL_ert_rtw/rtGetNaN.h:
+
+C:/Users/mario/Desktop/Mario/REPOSI~1/CONTRO~1/MOTORD~1/Matlab/SMC/DC_MOTOR_CONTROL_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2022b/extern/include/tmwtypes.h:
+
+C:/Users/mario/Desktop/Mario/REPOSI~1/CONTRO~1/MOTORD~1/Matlab/SMC/DC_MOTOR_CONTROL_ert_rtw/rtGetInf.h:
+
+C:/Users/mario/Desktop/Mario/REPOSI~1/CONTRO~1/MOTORD~1/Matlab/SMC/DC_MOTOR_CONTROL_ert_rtw/rt_nonfinite.h:
