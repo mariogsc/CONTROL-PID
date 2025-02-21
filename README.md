@@ -1,9 +1,17 @@
 # CONTROL-PID
-Este reposito contiene los archivos de para la implementación de sistemas de control PID, FO-PID y VSC.
+Este repositorio forma parte del Trabajo de Fin de Grado titulado:
+"Del control óptimo al predictivo. Aplicación sobre el péndulo invertido usando derivada fraccional".
 
-Las características del motor utilizado son:
-- Tensión nominal: 12 V
-- Zona muerta: ±3.75 V
-- Tipo de encoder: Incremental en cuadratura
-- Resolución del encoder: 52 pulsos/vuelta
-- Relación de reducción: 128 : 1
+En él se implementan distintos sistemas de control, incluyendo:
+
+- PID (Proporcional-Integral-Derivativo)
+- FO-PID (Fractional-Order PID)
+- VSC (Variable Structure Control)
+  
+Características del motor utilizado
+Tensión nominal: 12 V
+Zona muerta: ±3.75 V
+Tipo de encoder: Incremental en cuadratura
+Resolución del encoder: 52 pulsos/vuelta
+Relación de reducción: 128:1
+
