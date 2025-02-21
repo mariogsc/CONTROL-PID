@@ -8,10 +8,11 @@ En él se implementan distintos sistemas de control, incluyendo:
 - FO-PID (Fractional-Order PID)
 - VSC (Variable Structure Control)
   
-Características del motor utilizado
-Tensión nominal: 12 V
-Zona muerta: ±3.75 V
-Tipo de encoder: Incremental en cuadratura
-Resolución del encoder: 52 pulsos/vuelta
-Relación de reducción: 128:1
+Características del motor utilizado:
+- Modelo: Yanmis GM25-310
+- Tensión nominal: 12 V
+- Zona muerta: ±3.75 V
+- Tipo de encoder: Incremental en cuadratura
+- Resolución del encoder: 52 pulsos/vuelta
+- Relación de reducción: 128:1
 
